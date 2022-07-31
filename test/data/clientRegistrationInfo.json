@@ -1,0 +1,30 @@
+{
+    "randomClient": {
+        "gender": "Male",
+        "firstName": "randomFirstName",
+        "middleName": "QA",
+        "lastName": "randomLastName",
+        "maidenName": "maidenName",
+        "dateOfBirth": "01/01/1980",
+        "country": "United Kingdom",
+        "maritalStatus": "Married",
+        "primaryIdType": "PASSPORT",
+        "primaryId": "randomId",
+        "economyActivity": "Manufacturing",
+        "street": "16 Nowhere Road",
+        "postCode": "SW8 7YF",
+        "city": "London",
+        "state": "London",
+        "phoneCode": "GB + 44",
+        "phoneNumber": "randomPhoneNumber",
+        "businessPrimaryIdType": "PASSPORT",
+        "businessPrimaryId": "randomId",
+        "businessSector": "Construction",
+        "businessName": "Test Ltd",
+        "businessEconomy": "Manufacturing -Others",
+        "staffNumber": "10",
+        "branch": "randomBranch",
+        "qualification": "College Graduate",
+        "children": "4"
+    }
+}
