@@ -1,0 +1,7 @@
+# NPM files
+/node_modules/
+
+# MacOS
+.DS_Store
+
+.env
