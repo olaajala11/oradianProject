@@ -76,6 +76,7 @@ export function getRandomPassportNumber() {
    }
    return 'ABC' + number;
 }
+
 /**
  * Obtains a branch name from list of available branches
  *
